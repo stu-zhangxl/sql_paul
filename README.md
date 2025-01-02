@@ -96,15 +96,19 @@ create database db1;
 
 -- 命令: 指定数据库名称, 和 指定数据库的字符集 
 create database db1_1 character set utf8; 
-
--- 
 ```
 
 代码编辑如下: 
-![图1](pic\1.jpg)
+
+<div align="center">
+    <img src="./pic/1.jpg" alt="图1"/>
+</div>
+
 效果如下: 
 
-
+<div align="center">
+    <img src="./pic/2.png" alt="图2"/>
+</div>
 
 
 
